@@ -10,6 +10,11 @@
     height: 30px;
 }
 
+.navbar {
+    border-top: 3px solid orange;
+    border-bottom: 3px solid orange;
+}
+
 .sign-out {
     color: white;
 }
