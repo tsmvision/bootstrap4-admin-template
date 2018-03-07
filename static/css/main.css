@@ -5,3 +5,15 @@
 .text-orange {
     color: orange;
 }
+
+.navbar-user-icon {
+    height: 30px;
+}
+
+.sign-out {
+    color: white;
+}
+
+.sign-out:hover {
+    color: orangered;
+}
